@@ -1,0 +1,22 @@
+{
+    "collections": [
+        {
+            "id": 1,
+            "title": "Novo Drop Supreme",
+            "discount": 30,
+            "image": "https://o.remove.bg/downloads/0338486a-0c4f-4ee3-928b-ee9a8b67fc2c/iawm-star-wars-storm-trooper-supreme-shirts-youth-hoodie-43-front-navy-480px-removebg-preview.png"
+        },
+        {
+            "id": 2,
+            "title": "Coleção Adidas",
+            "discount": 30,
+            "image": "https://o.remove.bg/downloads/47068508-4796-4e9d-85e0-68b98ddcf824/4d457cfd07e32f5f59d639a27cda89fa-removebg-preview.png"
+        },
+        {
+            "id": 3,
+            "title": "Novo Beats Bass",
+            "discount": 30,
+            "image": "https://o.remove.bg/downloads/3d1410d0-61b5-4536-90b0-33bb7f446a38/fone-de-ouvido-edifier-removebg-preview.png"
+        }
+    ]
+}
